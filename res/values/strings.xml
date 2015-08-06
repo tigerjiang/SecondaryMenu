@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">app center</string>
+    <string name="apps_title">应用中心</string>
+    <string name="media_title">影视专区</string>
+    <string name="game_title">游戏专区</string>
+    <string name="lontai_title">智慧社区</string>
+    <string name="house_title">智能家居</string>
+    <string name="media_first_name">本地播放</string>
+    <string name="alert">功能不完善，敬请期待!</string>
+    <string name="order">立即订购</string>
+
+    <string-array name="scenario_array">
+        <item>智能控制客户端</item>
+        <item>智能窗帘</item>
+        <item>电能管理</item>
+        <item>智能灯光</item>
+        <item>智能影音</item>
+    </string-array>
+
+</resources>

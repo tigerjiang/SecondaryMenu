@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="apps_grid_column_width">173.34dp</dimen>
+    <dimen name="apps_grid_vertical_spacing">13.34dp</dimen>
+    <dimen name="application_icon_width">160dp</dimen>
+    <dimen name="application_icon_height">160dp</dimen>
+    <dimen name="application_icon_image_width">82.67dp</dimen>
+    <dimen name="application_icon_image_height">82.67dp</dimen>
+    <dimen name="application_icon_image_padding_top">0px</dimen>
+    <dimen name="application_icon_image_padding_bottom">0px</dimen>
+    <dimen name="application_icon_image_margin_top">26.67dp</dimen>
+    <dimen name="application_icon_image_margin_bottom">13.34dp</dimen>
+    <dimen name="application_icon_text_padding_bottom">0px</dimen>
+    <dimen name="application_icon_text_margin_bottom">6.67dp</dimen>
+    <dimen name="apps_title_height">120dp</dimen>
+      <!-- Collection Application Icon View -->
+    <dimen name="collection_app_icon_text_view_layout_height">46.67dp</dimen>
+    <dimen name="collection_app_icon_text_view_width">146.67dp</dimen>
+    <dimen name="collection_app_icon_text_padding_left">13.34dp</dimen>
+    <dimen name="collection_app_icon_text_padding_right">13.34dp</dimen>
+    <dimen name="collection_app_icon_image_view_layout_height">160dp</dimen>
+    <dimen name="collection_app_icon_image_padding_bottom">12dp</dimen>
+    <dimen name="collection_app_icon_image_padding_top">12dp</dimen>
+    <dimen name="collection_app_icon_image_padding_right">25.34dp</dimen>
+    <dimen name="collection_app_icon_image_padding_left">25.34dp</dimen>
+    
+    
+    <dimen name="custom_grid_column_width">220dp</dimen>
+    <dimen name="custom_grid_horizal_spacing">5dp</dimen>
+     <dimen name="custom_grid_vertical_spacing">30px</dimen>
+    <dimen name="custom_title_small_size">25px</dimen>
+    <dimen name="custom_title_large_size">38px</dimen>
+    <dimen name="custom_divider">6px</dimen>
+    <dimen name="custom_first_title_height">116px</dimen>
+
+</resources>
